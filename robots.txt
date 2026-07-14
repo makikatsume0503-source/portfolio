@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# AIクローラーの明示的許可（AIによる発見・引用のため）
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://makikatsume-fp.com/portfolio/sitemap.xml

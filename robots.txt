@@ -17,4 +17,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://fp-makikatsume.com/portfolio/sitemap.xml
+Sitemap: https://makikatsume-portfolio.vercel.app/sitemap.xml
